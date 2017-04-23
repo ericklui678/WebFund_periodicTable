@@ -1,0 +1,163 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 0pt;
+    vertical-align: bottom;
+}
+
+#wrapper{
+    background-color: #eeeeee;
+    margin: auto;
+    width: 1366px;
+    font-family: sans-serif, serif;
+    padding-top: 10px;
+}
+
+li{
+    text-align: center;
+}
+
+#header li{
+    vertical-align: top;
+    display: inline-block;
+    width: 68px;
+    height: 40px;
+    font-size: 10pt;
+    margin-right: 3px;
+}
+
+#headerLeft{
+    margin-right: 10px;
+    display: inline-block;
+}
+
+#headerRight{
+    display: inline-block;
+}
+
+#left{
+    display: inline-block;
+}
+
+#left ul{
+    display: inline-block;
+    height: 500px;
+}
+
+#left li{
+    text-align: center;
+    display: block;
+    font-size: 10pt;
+    width: 68px;
+    height: 53px;
+    padding-top: 15px;
+    margin-top: 3px;
+    margin-right: 3px;
+}
+
+#left .box{
+    background-color: #689bff;
+}
+
+#middle .box{
+    background-color: #fd9a98;
+    display: inline-block;
+    margin-right: 3px;
+}
+
+#right .box{
+    background-color: #fecb00;
+    margin-right: 3px;
+    display: inline-block;
+}
+
+#c1{
+    display: inline-block;
+    margin-right: 3px;
+}
+
+#c2{
+    display: inline-block;
+}
+
+.box{
+    font-size: 10pt;
+    height: 62px;
+    width: 62px;
+    padding: 2px;
+    margin-bottom: 3px;
+    border: 1px solid #9a8f8e;
+}
+
+#middle{
+    margin-left: 10px;
+    width: 710px;
+    height: 284px;
+    display: inline-block;
+}
+
+#right{
+    display: inline-block;
+    width: 433px;
+    height: 500px;
+    padding-left: 3px;
+}
+
+#right #he{
+    margin-top: 3px;
+    margin-left: 355px;
+}
+
+p{
+    font-size: 10pt;
+    text-align: center;
+}
+
+h3{
+    font-size: 18pt;
+    text-align: center;
+    color: #2f20a1;
+}
+
+#lower{
+    margin-top: 40px;
+}
+
+#lower #noids{
+    width: 210px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#lower #noids li{
+    text-align: left;
+    font-size: 10pt;
+    padding: 30px 0px 25px 65px;
+}
+
+#lower #stars{
+    width: 10px;
+    height: 180px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#lower #stars li{
+    font-size: 10pt;
+    display: block;
+    text-align: right;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+
+#green{
+    display: inline-block;
+    height: 200px;
+    width: 994px;
+}
+
+#green .box{
+    background-color: #1fca21;
+    display: inline-block;
+    margin-right: 3px;
+}
